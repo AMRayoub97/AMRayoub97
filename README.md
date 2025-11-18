@@ -10,6 +10,7 @@ I'm a **21-year-old Full-Stack Developer** passionate about building modern web 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![NoSQL](https://img.shields.io/badge/NoSQL-100000?style=for-the-badge&logo=mongodb&logoColor=green)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 
 ## 🛠 Frameworks & Tools
 
